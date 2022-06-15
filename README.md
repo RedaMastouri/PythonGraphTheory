@@ -24,3 +24,5 @@ AI-Centric stop-shop for all the network use cases using Graph streams -- https:
 
 11- PageRank
 
+# Existing Java Repository
+https://github.com/graphstream
